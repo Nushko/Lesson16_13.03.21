@@ -35,9 +35,9 @@ namespace Lesson16_13._03._21
             Console.WriteLine();
 
             var arr2 = new double[] { 1, 1, 1, 2, 1, 1 };
-            var arr3 = new double[] { 0, 0, 0.55, 0, 0 };
-
             Console.WriteLine(FindOdd(arr2));
+
+            var arr3 = new double[] { 0, 0, 0.55, 0, 0 };
             Console.WriteLine(FindOdd(arr3));
         }
 
